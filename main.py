@@ -160,7 +160,7 @@ st.markdown('---')
 footer_html = """
 <div style="text-align: center; margin-top: 20px;">
     <p>Built with ❤️ using <a href="https://streamlit.io" target="_blank">Streamlit</a> | 
-    View source code on <a href="https://github.com/ravishan16/chess-engine.git" target="_blank">GitHub</a></p>
+    View source code on <a href="https://github.com/ravishan16/chess_engine" target="_blank">GitHub</a></p>
 </div>
 """
 st.markdown(footer_html, unsafe_allow_html=True)
