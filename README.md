@@ -3,6 +3,9 @@
 ## Overview
 equiFi Chess is a sophisticated chess engine and web interface built with Python. The engine implements advanced chess algorithms including alpha-beta pruning search, positional evaluation, and multi-depth move analysis. The web interface, built with Streamlit, provides a user-friendly experience with real-time game analysis and interactive features.
 
+##Demo
+[![Watch the video](https://img.youtube.com/vi/As6f-FCAscM/0.jpg)](https://youtu.be/As6f-FCAscM)
+
 ## Project Structure
 ```
 chess_engine/
