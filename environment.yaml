@@ -1,0 +1,17 @@
+name: chess-engine
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - streamlit=1.27.0
+  - numpy=1.23.5
+  - python-chess=1.999
+  - pytest=7.4.2
+  - cairosvg=2.7.1
+  - pip
+  - pip:
+    - pytest-cov
+
+variables:
+  PYTHONPATH: $CONDA_PREFIX/lib/python3.11/site-packages

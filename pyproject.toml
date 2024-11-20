@@ -1,0 +1,12 @@
+[project]
+name = "repl-nix-pychessmaster"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "chess>=1.11.1",
+    "pytest-cov>=6.0.0",
+    "pytest>=8.3.3",
+    "python-chess>=1.999",
+    "streamlit>=1.40.1",
+]
